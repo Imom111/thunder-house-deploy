@@ -19,8 +19,8 @@ export const roleInitInformation = ['Administrator','Receptionist'];
 export const reservationInitInformation = [
   {
     names: ["Alejandro González Herrera","Isabella Ramos Mendoza"],
-    start_date: "2023-11-01",
-    end_date: "2023-11-05",
+    start_date: "2023-11-06",
+    end_date: "2023-11-11",
     has_breakfast: true,
     detail_reservation_room: [
       {
@@ -31,8 +31,8 @@ export const reservationInitInformation = [
   },
   {
     names: ["Gabriel Torres Vargas","Valentina Jiménez Castro"],
-    start_date: "2023-11-08",
-    end_date: "2023-11-12",
+    start_date: "2023-11-13",
+    end_date: "2023-11-17",
     has_breakfast: false,
     detail_reservation_room: [
       {
@@ -47,8 +47,8 @@ export const reservationInitInformation = [
   },
   {
     names: ["Andrés Rodríguez López","Camila Pérez Ramírez"],
-    start_date: "2023-11-15",
-    end_date: "2023-11-20",
+    start_date: "2023-11-20",
+    end_date: "2023-11-25",
     has_breakfast: true,
     detail_reservation_room: [
       {
@@ -71,8 +71,8 @@ export const reservationInitInformation = [
   },
   {
     names: ["Diego Medina Silva","Sofía Cruz Martínez"],
-    start_date: "2023-11-22",
-    end_date: "2023-11-27",
+    start_date: "2023-11-27",
+    end_date: "2023-11-31",
     has_breakfast: false,
     detail_reservation_room: [
       {
@@ -83,8 +83,8 @@ export const reservationInitInformation = [
   },
   {
     names: ["Mateo García Ortega","Victoria Flores Sánchez"],
-    start_date: "2023-10-29",
-    end_date: "2023-10-30",
+    start_date: "2023-11-04",
+    end_date: "2023-11-05",
     has_breakfast: true,
     detail_reservation_room: [
       {
