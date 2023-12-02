@@ -1,9 +1,0 @@
-.custom-small-table {
-    font-size: 12px; /* Reducir el tamaño del texto */
-    margin: 0; /* Reducir el margen */
-  }
-  
-  .custom-small-table .p-datatable-tbody td {
-    padding: 0.25rem; /* Reducir el padding de las celdas de la tabla */
-  }
-  
